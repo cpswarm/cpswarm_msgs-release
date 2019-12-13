@@ -1,0 +1,21 @@
+ros-kinetic-cpswarm-msgs (1.1.0-1xenial) xenial; urgency=high
+
+  * Added: State event
+  * Added: Area division event
+  * Added: Target action
+  * Changed: Use stamped pose for actions
+  * Removed: Assigned CPS from tracking action
+  * Added: Valid flag for get waypoint service
+  * Fixed: Rename service files according to ROS best practices
+  * Contributors: Micha Sende
+
+ -- Gianluca Prato <prato@ismb.it>  Sun, 03 Nov 2019 23:00:00 -0000
+
+ros-kinetic-cpswarm-msgs (1.0.0-1xenial) xenial; urgency=high
+
+  * Initial release
+  * Based on the SAR demo at the M18 review of the CPSwarm project
+
+ -- Gianluca Prato <prato@ismb.it>  Tue, 10 Sep 2019 22:00:00 -0000
+
+
